@@ -1,0 +1,191 @@
+name,actual_deathdate,gpt_deathdate,abs_date_difference,is_accurate
+Dan Reeves,2022-01-01,2022-01-01,0.0,True
+Sidney Poitier,2022-01-06,2022-01-06,0.0,True
+Peter Bogdanovich,2022-01-06,2022-01-06,0.0,True
+Bob Saget,2022-01-09,2022-01-09,0.0,True
+Robert Durst,2022-01-10,2022-01-10,0.0,True
+Don Maynard,2022-01-10,2022-01-10,0.0,True
+Ronnie Spector,2022-01-12,2022-01-12,0.0,True
+Peter Robbins,2022-01-18,2022-01-18,0.0,True
+André Leon Talley,2022-01-18,2022-01-18,0.0,True
+Meat Loaf,2022-01-20,2022-01-20,0.0,True
+Louie Anderson,2022-01-21,2022-01-21,0.0,True
+Moses J. Moseley,2022-01-26,2022-01-26,0.0,True
+Howard Hesseman,2022-01-29,2022-01-29,0.0,True
+Gerald Williams,2022-02-08,2022-02-08,0.0,True
+Jeremy Giambi,2022-02-09,2022-02-09,0.0,True
+Betty Davis,2022-02-09,2022-02-09,0.0,True
+Ivan Reitman,2022-02-12,2022-02-12,0.0,True
+Sally Kellerman,2022-02-24,2022-02-24,0.0,True
+Ned Eisenberg,2022-02-27,2022-02-27,0.0,True
+"Alan Ladd, Jr.",2022-03-02,2022-03-02,0.0,True
+Emilio Delgado,2022-03-10,2022-03-10,0.0,True
+Traci Braxton,2022-03-12,2022-03-12,0.0,True
+William Hurt,2022-03-13,2022-03-13,0.0,True
+Scott Hall,2022-03-14,2022-03-14,0.0,True
+Madeleine Albright,2022-03-23,2022-03-23,0.0,True
+Taylor Hawkins,2022-03-25,2022-03-25,0.0,True
+Estelle Harris,2022-04-02,2022-04-02,0.0,True
+Bobby Rydell,2022-04-05,2022-04-05,0.0,True
+Rayfield Wright,2022-04-07,2022-04-07,0.0,True
+Dwayne Haskins,2022-04-09,2022-04-09,0.0,True
+Jack Higgins,2022-04-09,2022-04-09,0.0,True
+Gary Brown (NFL),2022-04-10,2022-04-10,0.0,True
+Shirley Spork,2022-04-12,2022-04-12,0.0,True
+Cedric McMillan,2022-04-12,2022-04-12,0.0,True
+Gilbert Gottfried,2022-04-12,2022-04-12,0.0,True
+Mike Bossy,2022-04-14,2022-04-14,0.0,True
+Liz Sheridan,2022-04-15,2022-04-15,0.0,True
+Daryle Lamonica,2022-04-21,2022-04-21,0.0,True
+Guy Lafleur,2022-04-22,2022-04-22,0.0,True
+Orrin Hatch,2022-04-23,2022-04-23,0.0,True
+Jossara Jinaro,2022-04-27,2022-04-27,0.0,True
+Naomi Judd,2022-04-30,2022-04-30,0.0,True
+Norman Mineta,2022-05-03,2022-05-03,0.0,True
+George Pérez,2022-05-06,2022-05-06,0.0,True
+Mickey Gilley,2022-05-07,2022-05-07,0.0,True
+Fred Ward,2022-05-08,2022-05-08,0.0,True
+Adreian Payne,2022-05-09,2022-05-09,0.0,True
+Bob Lanier,2022-05-10,2022-05-10,0.0,True
+Ray Liotta,2022-05-26,2022-05-26,0.0,True
+Andy Fletcher,2022-05-26,2022-05-26,0.0,True
+Alan White,2022-05-26,2022-05-26,0.0,True
+Bo Hopkins,2022-05-28,2022-05-28,0.0,True
+Marion Barber,2022-06-01,2022-06-01,0.0,True
+Jim Seals,2022-06-06,2022-06-06,0.0,True
+Billy Kametz,2022-06-09,2022-06-09,0.0,True
+Philip Baker Hall,2022-06-12,2022-06-12,0.0,True
+Tony Siragusa,2022-06-22,2022-06-22,0.0,True
+Mary Mara,2022-06-26,2022-06-26,0.0,True
+Joe Turkel,2022-06-27,2022-06-27,0.0,True
+Marlin Briscoe,2022-06-27,2022-06-27,0.0,True
+Lenny Von Dohlen,2022-07-05,2022-07-05,0.0,True
+James Caan,2022-07-06,2022-07-06,0.0,True
+Shinzo Abe,2022-07-08,2022-07-08,0.0,True
+Tony Sirico,2022-07-08,2022-07-08,0.0,True
+Ivana Trump,2022-07-14,2022-07-14,0.0,True
+Rebecca Balding,2022-07-18,2022-07-18,0.0,True
+Paul Sorvino,2022-07-25,2022-07-25,0.0,True
+Tony Dow,2022-07-27,2022-07-27,0.0,True
+Bill Russell,2022-07-31,2022-07-31,0.0,True
+Nichelle Nichols,2022-07-31,2022-07-30,1.0,True
+Vin Scully,2022-08-02,2022-08-02,0.0,True
+Roger E. Mosley,2022-08-07,2022-08-07,0.0,True
+Olivia Newton-John,2022-08-08,2022-08-08,0.0,True
+Anne Heche,2022-08-12,2022-08-12,0.0,True
+Tom Weiskopf,2022-08-21,2022-08-20,1.0,True
+Len Dawson,2022-08-24,2022-08-24,0.0,True
+Mikhail Gorbachev,2022-08-30,2022-08-30,0.0,True
+Earnie Shavers,2022-09-01,2022-09-01,0.0,True
+Elizabeth II,2022-09-08,2022-09-08,0.0,True
+Ken Starr,2022-09-13,2022-09-13,0.0,True
+Maury Wills,2022-09-19,2022-09-19,0.0,True
+Louise Fletcher,2022-09-23,2022-09-23,0.0,True
+Coolio,2022-09-28,2022-09-28,0.0,True
+Loretta Lynn,2022-10-04,2022-10-04,0.0,True
+Angela Lansbury,2022-10-11,2022-10-11,0.0,True
+Bruce Sutter,2022-10-13,2022-10-13,0.0,True
+Robbie Coltrane,2022-10-14,2022-10-14,0.0,True
+Ashton Carter,2022-10-24,2022-10-24,0.0,True
+Leslie Jordan,2022-10-24,2022-10-24,0.0,True
+Jerry Lee Lewis,2022-10-28,2022-10-28,0.0,True
+Vince Dooley,2022-10-28,2022-10-28,0.0,True
+Kirshnik Khari Ball,2022-11-01,2022-11-01,0.0,True
+Ray Guy,2022-11-03,2022-11-03,0.0,True
+Dave Butz,2022-11-04,2022-11-04,0.0,True
+Aaron Carter,2022-11-05,2022-11-05,0.0,True
+"Leo Anthony Gallagher, Jr.",2022-11-11,2022-11-11,0.0,True
+John Aniston,2022-11-11,2022-11-11,0.0,True
+Budd Friedman,2022-11-12,2022-11-12,0.0,True
+Irene Cara,2022-11-25,2022-11-25,0.0,True
+Clarence Gilyard,2022-11-28,2022-11-28,0.0,True
+Brad William Henke,2022-11-29,2022-11-29,0.0,True
+Christine McVie,2022-11-30,2022-11-30,0.0,True
+John Hadl,2022-11-30,2022-11-30,0.0,True
+Gaylord Perry,2022-12-01,2022-12-01,0.0,True
+Bob McGrath,2022-12-04,2022-12-04,0.0,True
+Kirstie Alley,2022-12-05,2022-12-05,0.0,True
+Georgia Holt,2022-12-10,2022-12-10,0.0,True
+"Stephen ""tWitch"" Boss",2022-12-13,,,False
+Franco Harris,2022-12-20,2022-12-20,0.0,True
+Pele,2022-12-29,2022-12-29,0.0,True
+Barbara Walters,2022-12-30,2022-12-30,0.0,True
+Pope Benedict XVI,2022-12-31,2022-12-31,0.0,True
+Lola Chantrelle Mitchell,2023-01-01,,,False
+Ken Block,2023-01-02,2023-01-02,0.0,True
+Adam Rich,2023-01-07,2023-01-07,0.0,True
+Jeff Beck,2023-01-10,2023-01-10,0.0,True
+Lisa Marie Presley,2023-01-12,2023-01-12,0.0,True
+Julian Sands,2023-01-13,,,False
+CJ Harris,2023-01-15,2023-01-14,1.0,True
+Jay Briscoe,2023-01-17,2023-01-17,0.0,True
+David Crosby,2023-01-18,2023-01-18,0.0,True
+Sal Bando,2023-01-20,2023-01-20,0.0,True
+Lance Kerwin,2023-01-24,2023-01-24,0.0,True
+Billy Packer,2023-01-26,2023-01-26,0.0,True
+Lisa Loring,2023-01-28,2023-01-28,0.0,True
+Bobby Hull,2023-01-30,2023-01-30,0.0,True
+Terry Holland,2023-02-02,2023-02-22,20.0,False
+Burt Bacharach,2023-02-08,2023-02-08,0.0,True
+David Jude Jolicoeur,2023-02-12,2023-02-12,0.0,True
+Conrad Dobler,2023-02-13,2023-02-13,0.0,True
+Raquel Welch,2023-02-15,2023-02-15,0.0,True
+Tim McCarver,2023-02-16,2023-02-16,0.0,True
+Richard Belzer,2023-02-19,2023-02-19,0.0,True
+Tom Sizemore,2023-03-03,2023-03-03,0.0,True
+Gary Rossington,2023-03-05,2023-03-05,0.0,True
+Robert Blake,2023-03-09,2023-03-09,0.0,True
+Bud Grant,2023-03-11,2023-03-11,0.0,True
+Joe Pepitone,2023-03-13,2023-03-13,0.0,True
+Bobby Caldwell,2023-03-14,2023-03-14,0.0,True
+Lance Reddick,2023-03-17,2023-03-17,0.0,True
+Willis Reed,2023-03-21,2023-03-21,0.0,True
+Ryuichi Sakamoto,2023-03-28,,,False
+Paul Cattermole,2023-04-06,,,False
+Michael Lerner,2023-04-08,,,False
+Al Jaffee,2023-04-10,,,False
+Mary Quant,2023-04-13,2023-03-21,23.0,False
+Len Goodman,2023-04-22,,,False
+Harry Belafonte,2023-04-25,,,False
+Jerry Springer,2023-04-27,,,False
+Vida Blue,2023-05-06,,,False
+Joe Kapp,2023-05-08,,,False
+Denny Crum,2023-05-09,2023-03-30,40.0,False
+Doyle Brunson,2023-05-14,,,False
+Marlene Hagge,2023-05-16,,,False
+Jim Brown,2023-05-19,,,False
+Tina Turner,2023-05-24,,,False
+Robert Hanssen,2023-06-05,,,False
+The Iron Sheik,2023-06-07,,,False
+Pat Robertson,2023-06-08,,,False
+Theodore Kaczynski,2023-06-10,,,False
+Treat Williams,2023-06-12,,,False
+Silvio Berlusconi,2023-06-12,,,False
+Cormac McCarthy,2023-06-13,,,False
+Daniel Ellsberg,2023-06-16,,,False
+Bobby Osborne,2023-06-27,,,False
+Alan Arkin,2023-06-29,,,False
+Tony Bennett,2023-07-21,,,False
+Sinead O'Connor,2023-07-26,,,False
+Paul Reubens,2023-07-30,,,False
+William Friedkin,2023-08-07,,,False
+Robbie Robertson,2023-08-09,,,False
+Terry Funk,2023-08-23,,,False
+Bob Barker,2023-08-26,,,False
+Jimmy Buffett,2023-09-01,,,False
+Bill Richardson,2023-09-01,,,False
+Gary Wright,2023-09-04,,,False
+Steve Harwell,2023-09-04,,,False
+David McCallum,2023-09-25,,,False
+Brooks Robinson,2023-09-26,,,False
+Michael Gambon,2023-09-28,,,False
+Dianne Feinstein,2023-09-28,,,False
+Tim Wakefield,2023-10-01,,,False
+Dick Butkus,2023-10-05,,,False
+Rudolph Isley,2023-10-11,,,False
+Piper Laurie,2023-10-14,,,False
+Suzanne Somers,2023-10-15,,,False
+Richard Roundtree,2023-10-24,,,False
+Matthew Perry,2023-10-28,,,False
+Frank Howard,2023-10-30,,,False
+Bobby Knight,2023-11-01,,,False
