@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a Jupyter Notebook titled "LLM Knowledge Cutoff" that is designed to test the accuracy of GPT-4 Turbo's knowledge. The notebook, however, be easily customized to use with other LLMs.
+This repository contains a Jupyter Notebook titled "LLM Knowledge Cutoff" that was used [to evaluate the quality of GPT-4 Turbo's knowledge of celebrity deaths](https://mattmazur.com/2023/11/14/exploring-chatgpts-knowledge-cutoff/) as we approach its knowledge cutoff.
 
 ## Usage
 
